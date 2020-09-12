@@ -1,4 +1,4 @@
-# heroku-vue-test
+# test
 
 ## Project setup
 ```
